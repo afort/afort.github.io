@@ -2,6 +2,9 @@
 _site
 .sass-cache
 .vagrant
+.venv
+/.venv
+_dev
 
 # general
 .DS_Store
