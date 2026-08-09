@@ -57,15 +57,15 @@ If you've never heard of it before, **[scholar.google.com](https://scholar.googl
 
 Just an example of this, let's say we search for the word 'histamines':
 
-![Google Scholar 'histamines' Search](assets/img/articles/google-scholar-histamines-search.png)
+![Google Scholar 'histamines' Search](https://afort.github.io/assets/img/articles/google-scholar-histamines-search.png)
 
 I want to highlight one article in this entire search; notice how you can see the number of times it was cited by others (typically, the more the better, but be careful because this is how controversial ideas can be over-cited as well). You can also see a number of different versions available (often, these are cross-posted or added to multiple platforms).
 
-![Google Scholar histamine article](assets/img/articles/google-scholar-histamines-search-article-specific.png)
+![Google Scholar histamine article](https://afort.github.io/assets/img/articles/google-scholar-histamines-search-article-specific.png)
 
 In the sidebar (left) you will find a bunch of additional features that can help you as well.
 
-![Sidebar](assets/img/articles/google-scholar-histamines-search-side-bar.png)
+![Sidebar](https://afort.github.io/assets/img/articles/google-scholar-histamines-search-side-bar.png)
 
 ### General Tips/Tricks
 
